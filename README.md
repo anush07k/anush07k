@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Anushka Dubey </h1>
-<h3 align="center">I am a 3rd year student at National Institute of Technology Patna. Currently ,pursuing my B.Tech in Electronics and Communication Engineering. I am interested in Blockchain dev, Full stack Web dev , DSA and expanding my know how in AI/ ML.</h3>
+<h3 align="center">I am a final year student at National Institute of Technology Patna. Currently ,pursuing my B.Tech in Electronics and Communication Engineering. I am interested in Blockchain dev, Full stack Web dev , DSA and statistical analysis and predictive modelling.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva1217&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" alt="shiva1217" /> </p>
 
@@ -10,7 +10,7 @@
 
  <h3>🚀 About Me </h3>
  
-- 🌱 I’m proficient in **full stack blockchain development**
+- 🌱 I’m proficient in **full stack MERN and blockchain development**
 
 - 💬 Ask me about **anything**
 
